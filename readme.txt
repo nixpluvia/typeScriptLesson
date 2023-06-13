@@ -1,1 +1,1 @@
-TypeScript lesson - Coding Apple
+TypeScript lesson
